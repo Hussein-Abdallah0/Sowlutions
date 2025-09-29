@@ -2,6 +2,7 @@
 
 ### 1. Clone the Repository
 
+```bash
 git clone https://github.com/Hussein-Abdallah0/Sowlutions.git
 cd Sowlutions
 
